@@ -2,6 +2,7 @@ require 'bundler/setup'
 Bundler.require
 
 require 'rake'
+require 'pry'
 require 'active_record'
 require 'yaml/store'
 require 'ostruct'
